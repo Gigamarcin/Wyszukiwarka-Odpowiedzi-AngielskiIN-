@@ -2,6 +2,7 @@
 ==========================================================================================
 
 LEGENDA
+- Pod każdym zadaniem jest linia „Polecenie:” – treść polecenia z podręcznika (po angielsku).
 - Odpowiedzi do zadań zamkniętych podane wprost.
 - [SŁUCHANIE] – zadanie wymaga nagrania/filmu, którego nie ma w PDF-ie. Tam, gdzie
   odpowiedź da się ustalić z tekstu lub wiedzy ogólnej, podaję ją z dopiskiem „(prawdopodobnie)”;
@@ -18,11 +19,13 @@ UNIT 1. ACADEMIA – PART 1
 --- FACILITIES ---
 
 Task 1 (compound nouns)
+Polecenie: Match the two halves A and B to form compound nouns.
 lecture theatre / research centre / health care, health centre / dean's office /
 sports centre, sports grounds, sports facilities / hall of residence /
 International Relations Office / students' union / rector's office / great hall
 
 Task 2
+Polecenie: Choose the best answer. Sometimes more than one answer is possible.
 1. b (library)
 2. c (campus)
 3. b, c (great hall, auditorium)
@@ -37,11 +40,14 @@ Task 2
 12. b, c (dormitory, hall of residence)
 
 Task 3 – [USTNE/OTWARTE] mapa kampusu.
+Polecenie: Draw a map of your campus with the buildings and facilities that you know and use most of the time. Add some buildings/facilities that you would like to have on the campus. Compare your ideas with your friend's ideas and drawing.
 Task 4 – [USTNE] opisywanie słów w parach.
+Polecenie: Work in pairs. Student A - go to page 93, Student B - go to page 105. (Explain your set of words to your partner, who has to guess them. You mustn't say the word itself.)
 
 --- FACULTIES ---
 
 Task 5 (symbole wydziałów PK)
+Polecenie: Work in pairs. Can you name the faculties at Cracow University of Technology? Match the names of the faculties with their symbolic representation.
 1. Faculty of Architecture
 2. Faculty of Computer Science and Telecommunications
 3. Faculty of Electrical and Computer Engineering
@@ -55,6 +61,7 @@ Task 5 (symbole wydziałów PK)
 i telekomunikacja, 5 to atom = inżynieria materiałowa i fizyka.)
 
 Task 6 (Jacob – tekst poniżej to transkrypcja)
+Polecenie: Listen to Jacob describing his faculty at CUT. Decide if the statements are True or False. ('Faculty' mp3)
 1. F – nie wspomniał o liczbie punktów ECTS
 2. F – trzy kierunki (Engineering Physics, Materials Engineering, Nanotechnology and Nanomaterials)
 3. F – jest studentem 3. roku (undergraduate)
@@ -63,14 +70,17 @@ Task 6 (Jacob – tekst poniżej to transkrypcja)
 6. F – nie jest łatwo; korzysta z wielu źródeł i konsultacji
 
 Task 7
+Polecenie: Work in pairs. Study the definitions provided and find words that they refer to in the passage below.
 a. procrastination   b. workforce   c. obtain   d. electromagnetism   e. commute
 f. NASA   g. spouse   h. resources   i. major
 
 Task 8 – [USTNE/OTWARTE]
+Polecenie: Answer the questions. If you could choose any faculty at CUT or any other university, which one would you like to study at? Would you like to study abroad? If yes, which university and faculty would you take into account and why? Compare your answers in pairs.
 
 --- ENROLMENT ---
 
 Task 9 (kolejność zdań, w kolejności jak w książce)
+Polecenie: The text about enrolment has been mixed up. Put the sentences in the correct order (1-6). Listen to the recording and check your answers. ('Enrolment' mp3)
 „Once you have decided...” – 5
 „It is easy to calculate...” – 3
 „In order to enrol at a Uni, you have to fill in an online form...” – 1
@@ -79,18 +89,22 @@ Task 9 (kolejność zdań, w kolejności jak w książce)
 „After getting the scores of your final exams...” – 2
 
 Task 10
+Polecenie: Decide if the statements are True or False.
 1. T   2. T   3. F (trzeba osobiście przyjść do centrum rekrutacji)   4. T
 5. F (myśli o przejściu z niestacjonarnych na stacjonarne)
 
 Task 11
+Polecenie: Work in pairs. Match each word or phrase from the box with its definition.
 a. eligible   b. register   c. prior   d. refund   e. deferment   f. certificate
 g. transcript   h. peruse   i. submit   j. fee   k. enrolment   l. gap year   m. grant
 
 Task 12
+Polecenie: Read the sentences about enrolment at a university and underline the right word/words in parentheses.
 1. certificate   2. submit   3. transcript   4. deferment   5. eligible   6. peruse
 7. exemption   8. prior   9. fee   10. refunded
 
 Task 13 (pary – tłumaczenia)
+Polecenie: Work in pairs. Student A - go to page 93, Student B - go to page 105. (Read your Polish words and listen to your partner, who will find the English equivalent. Fill in the boxes.)
 Słówka Studenta A: dojeżdżać – commute; zasób – resource; zapisywać się – register / enrol;
 zwrot pieniędzy – refund; kierunek studiów – field of study / major; rok przerwy – gap year;
 uprawniony – eligible; składać dokumenty – submit
@@ -99,26 +113,39 @@ odwlekać coś – procrastinate; odroczenie – deferment; przeczytać uważnie
 zapisy – enrolment; budownictwo – civil engineering; odpis ocen – transcript
 
 Task 14 (pary – „bleep”)
+Polecenie: Work in pairs. Student A - go to page 94, Student B - go to page 106. (Read your sentences to your partner but don't say the word in bold, say 'bleep'. Your partner will complete the sentence with the appropriate word from the box, changing its form if needed.)
 Zdania A: 1. Admission, competitive  2. qualifications, requirements  3. divisions, Divisions
 4. Department  5. facilitates  6. Administrative
 Zdania B: 7. exemption  8. Deferment  9. internationally, certificate  10. financial
 11. application (tuition), confirmation  12. Tuition (application)
 
 Task 15–19 – [USTNE/OTWARTE]
+Polecenie: Task 15. Work in pairs and answer the questions. What problems can you face at university? Where in your university would you go with your problems? Together with your friend write down as many problems/issues as possible in the boxes (Students' Union, Dean's office, Health Care, Foreign Languages).
+Polecenie: Task 16. Role-play. Work in pairs. One person is a student, and the other person works for one of the organisations above. Act out a problem and try to solve it. Be polite. Take turns.
+Polecenie: Task 17. Group work. Start reading the words aloud with the correct pronunciation. If you make a mistake, another person takes over.
+Polecenie: Task 18. Work in pairs. Choose one word from the box above and explain it to your friend who will try to guess it. DO NOT SAY the word itself. Take turns.
+Polecenie: Task 19. Work in groups of three. Choose (7-10) words from the box, write them down on a piece of paper. Each group will pass the paper to the group sitting next to them. Write coherent sentences or a story with the new words you got. Read the sentences to the class. The best group wins.
 
 ==========================================================================================
 UNIT 1. ACADEMIA – PART 2
 ==========================================================================================
 
+Task 1 – [CZYTANIE] tekst o kadrze akademickiej; ćwiczenia do niego to Task 2–3.
+Polecenie: Read the information about Academic Personnel and do the comprehension exercises.
+
 Task 2
+Polecenie: Choose the correct answer.
 1. b   2. a   3. c   4. a   5. b   6. a
 
 Task 3
+Polecenie: Work in pairs. Match the people with definitions.
 1. f   2. h   3. a   4. c   5. i   6. b   7. d   8. g   9. e   10. k   11. j
 
 Task 4 – [USTNE/OTWARTE]
+Polecenie: Answer the questions below. 1. Would you prefer to be a research assistant or a research fellow? Why? 2. Have you ever had to talk to or write a formal letter or request to the dean/your professor/lecturer? What was it about? 3. How do your professors/lecturers prefer to be addressed? How do the professors and lecturers address their students? Compare your answers in pairs.
 
 Task 5 – [SŁUCHANIE] (prawdopodobnie, wg wiedzy ogólnej)
+Polecenie: Listen to a talk about Academic Degrees and choose the correct answer.
 1. b (false – undergrad to studia pierwszego stopnia)
 2. a (true – BA)
 3. b (false)
@@ -127,11 +154,14 @@ Task 5 – [SŁUCHANIE] (prawdopodobnie, wg wiedzy ogólnej)
 6–8 – sprawdzić z nagraniem
 
 Task 6
+Polecenie: Work in pairs. Choose the right answer.
 1. a   2. b   3. b   4. a   5. c   6. c
 
 Task 7 – [USTNE/OTWARTE]
+Polecenie: Answer the question. Is a BSc or MSc enough for you or would you like to pursue a doctoral degree? Why/why not? Compare your answers in pairs.
 
 Task 8 (krzyżówka w parach – całość)
+Polecenie: Work in pairs. Student A - go to page 94, Student B - go to page 106. (Look at your crossword and make sure you know the meaning of all the words. Define your word but DO NOT USE THE WORD in your definition; your partner defines theirs. Complete the crossword. Make a two-word expression out of the shaded letters and you get your mystery phrase.)
 1. TUTOR
 2. FIRST-CYCLE
 3. SUPERVISOR
@@ -147,6 +177,7 @@ Task 8 (krzyżówka w parach – całość)
 Hasła z zacienionych liter: Student A – RESEARCH FELLOW; Student B – MASTER THESIS
 
 Task 9
+Polecenie: Match each word or expression with the correct definition.
 to examine – to look at
 to deploy – to develop; to use
 to unravel – to understand; to solve or explain
@@ -157,12 +188,14 @@ debate – discussion or argument about a subject
 to critique – to give an opinion about a piece of work
 
 Task 10 (nagłówki)
+Polecenie: Read the course description, then do the exercises. Three headings of the course description have been removed. Put them back into the correct places.
 1. akapit (cele kursu) – MODULE AIMS
 2. akapit (lecture + seminar, materiały, czytanie przed zajęciami) – TEACHING AND LEARNING STRATEGIES
 3. akapit („You will have been introduced... You will be able to discuss...”) –
    LEARNING OUTCOMES AND ASSESSMENT CRITERIA
 
 Task 11 (poprawione zdania)
+Polecenie: The sentences about the course description are false. Correct them to make true sentences.
 1. The course will focus on a number of Greek myths and texts which have fascinated thinkers for centuries.
 2. Classes will consist of an hour-long lecture followed by a seminar.
 3. The lecturer leader will provide students with appropriate information and material
@@ -172,11 +205,13 @@ Task 11 (poprawione zdania)
 6. By the end of the course students will have been introduced to several important Greek myths.
 
 Task 12 – [OTWARTE] przykład:
+Polecenie: Work in pairs. Think of a new course (Maths/Physical Education/Psychology/Laboratory classes/Philosophy/English etc.) which is not part of your curriculum/syllabus, but you would like to take it. Write a short description of this course.
 The title of the course is "Python for Engineers".
 Module aims: To familiarise students with basic programming concepts; to acquire skills
 which enable them to automate engineering calculations; to develop problem-solving skills.
 
 Task 13
+Polecenie: Study the course description chart and do the tasks below. Match the words and phrases from the course description chart with their Polish equivalents.
 kierunek studiów – main field of study
 rozpoczęcie, rozpoczynający się – commencing
 tryb nauki – mode of study
@@ -187,20 +222,25 @@ zadanie – assignment
 obowiązujący – applicable
 
 Task 14
+Polecenie: Read the definitions and match them with the English words/phrases from the previous task.
 1. cycle of study   2. mode of study   3. main field of study   4. commencing   5. applicable
 
 Task 15
+Polecenie: Work in pairs. Match the beginnings (1-7) with the endings (a-g) to form full sentences.
 1. f   2. c   3. a   4. d   5. b   6. g   7. e
 
 Task 16 – [OTWARTE]
+Polecenie: Work in pairs. Think of a course that you enjoy. Write a similar course description chart as the one in Task 13.
 
 Task 17 (pary – kolokacje)
+Polecenie: Work in pairs. Student A - go to page 95, Student B - go to page 107. (Read the beginning of your expressions, your partner will finish it. If you both agree that the ending makes sense, write it down. Together with your friend try to make sentences with the expressions.)
 Początki A: deploy research skills, assessment criteria, learning outcomes, component grades,
 get to grips, main field of study
 Początki B: individual projects, teaching instruments, reading list, unravel a complex argument,
 additional resources, evaluation methods
 
 Task 18 (kolokacje)
+Polecenie: Work in pairs. Match A with B to form collocations. Discuss in pairs who can perform the following actions. e.g. a professor can hold...
 hold office hours; do research; have educational duties; grade papers/projects;
 assist a professor; perform/carry out experiments; give opinion on the thesis;
 assess students' progress; provide advice and guidance; coach and support a student's thesis
@@ -209,6 +249,7 @@ A TA can grade papers/projects and assist a professor. An RA can perform experim
 A reviewer can give opinion on the thesis. A supervisor/tutor can provide advice and guidance.
 
 Task 19 (odd one out)
+Polecenie: Find the ODD out. Compare your answers with your partner. Write two more sets with your friend.
 a. additional resources (reszta to elementy oceniania)
 b. NBA (to nie stopień naukowy)
 c. lecturer (reszta związana z oceną pracy dyplomowej)
@@ -216,6 +257,7 @@ d. principle (zasada; reszta to szefowie uczelni – uwaga: „principal” był
 e. committee (to grupa, nie pojedyncza osoba)
 
 Task 20 (wykreślanka)
+Polecenie: Work in pairs. Write English words and abbreviations next to their Polish equivalent and find them in the grid. You can go horizontally, vertically and diagonally.
 prace naukowe – thesis/theses
 magister inżynier – MSc
 główny – principal / major
@@ -239,12 +281,15 @@ interesy, handel – business
 doktorat – PhD
 
 Task 21–22 – [USTNE/OTWARTE]
+Polecenie: Task 21. Work in pairs. Choose one word from the box above and define it to your friend who will try to guess it. DO NOT SAY the word itself. Take turns.
+Polecenie: Task 22. Work in groups of three. Choose (7-10) words from the box, write them down on a piece of paper. Each group will pass the paper to the group sitting next to them. Write coherent sentences/a story with the new words you got. Read the sentences to the class. The best group wins.
 
 ==========================================================================================
 UNIT 1. ACADEMIA – PART 3
 ==========================================================================================
 
 Task 1 – [SŁUCHANIE], poprawione zdania:
+Polecenie: Listen to the recording about types of students. The sentences about types of students are false. Correct them to make true sentences.
 1. A freshman is a first-year student in America. (junior = 3rd year)
 2. Zdanie w zasadzie prawdziwe – sophomore = second-year student (US).
 3. The term 'fresher' refers to a first-year student. (trainee = intern / stażysta)
@@ -254,13 +299,16 @@ Task 1 – [SŁUCHANIE], poprawione zdania:
 7. That is a transfer student (exchange student studies abroad for a limited time).
 
 Task 2
+Polecenie: Work in pairs. Read the description and match them with the words from the box. Sometimes more than one answer is correct.
 a. year prefect / class representative / group representative
 b. sophomore   c. undergrad   d. postgraduate   e. alumna   f. trainee / intern
 g. doctoral students   h. freshman   i. junior   j. senior
 
 Task 3 – [OTWARTE]
+Polecenie: Write sentences about yourself or your friend and use at least five words from task 2. Compare your answers in pairs.
 
 Task 4 (types of classes)
+Polecenie: Fill in each paragraph with words/expressions from the box below.
 1. lecture; lecture theatre (hall); lecture room; lecture; lectures
 2. lessons (classes)
 3. laboratories / labs
@@ -272,13 +320,17 @@ Task 4 (types of classes)
 9. science club
 
 Task 5 – [SŁUCHANIE] sprawdzenie Task 4.
+Polecenie: Listen to the recording and check your answers to the previous exercise. ('Types of classes' mp3)
 
 Task 6
+Polecenie: Choose the correct answer.
 1. b   2. a   3. c   4. b   5. b   6. b   7. c
 
 Task 7 – [USTNE/OTWARTE]
+Polecenie: Answer the questions. 1. How big is the audience during your lectures? 2. How many students attend laboratory classes in your group/year? 3. Where can you complete your internship? 4. Do you attend your faculty's science club? Why/why not? Compare your answers in pairs.
 
 Task 8 (pary – T/F, odpowiedzi w nawiasach w książce)
+Polecenie: Work in pairs. Student A - go to page 95, Student B - go to page 107. (Read the sentences, your partner will decide if they are true or false. You have the answers in brackets. Correct your friend if they are wrong.)
 A: 1. F – lecture theatre/room  2. F – graduates/postgraduates  3. T  4. F – doctoral students
    5. F – tutorials
 B: 1. F – transfer student  2. F – science club  3. T  4. F – lab report  5. T
@@ -286,6 +338,7 @@ B: 1. F – transfer student  2. F – science club  3. T  4. F – lab report  
 --- EXAMINATION TIME ---
 
 Task 9
+Polecenie: Match the words and expressions from the box with the definitions. Sometimes there is more than one possible answer.
 a. electronic gradebook
 b. final grade
 c. end-of-term examinations / final exams / finals / examination period
@@ -296,17 +349,21 @@ g. oral examination / oral exam
 h. written examination / written exam
 
 Task 10
+Polecenie: Work in pairs. Rearrange the words into full questions concerning examination timetables.
 1. How do I find out when my exam is?
 2. Do exam dates change?
 3. Can I sit my exam away from my university?
 4. I have two exams on the same day and time, so what should I do?
 
 Task 11
+Polecenie: Match the questions from task 10 with the answers.
 a – 2   b – 3   c – 4   d – 1
 
 Task 12 – [USTNE/OTWARTE]
+Polecenie: Think about the session time in your faculty. Work in pairs to answer the questions from task 10.
 
 Task 13 (strona czynna ↔ bierna)
+Polecenie: Grammar. Change the active voice into passive and vice versa.
 a) You are given a lecture on a topic (by a professor). / A lecture on a topic is given to you by a professor.
 b) Notes are carefully taken by students.
 c) All sorts of experiments and tests are carried out by students.
@@ -326,11 +383,13 @@ UNIT 1. ACADEMIA – REVISION EXERCISES
 ==========================================================================================
 
 Task 1 (word snake)
+Polecenie: Find university words in the word snake.
 defer, refund, doctoral student, tuition, assignment, traineeship, pull an all-nighter,
 research centre, elective, course, enrolment, theses, sophomore, science club,
 bachelor of arts, transcript, thesis committee, end of term, exam, major, resource, evaluation
 
 Task 2
+Polecenie: Fill in the gaps with the correct words, expressions, or idioms.
 a – alumni
 c – commence
 d – dean
@@ -349,8 +408,10 @@ t – traineeship
 w – written exam(s)
 
 Task 3 – [OTWARTE] alfabet słówek.
+Polecenie: Work in pairs. Together with your friend go through the alphabet and write as many 'university' words/expressions/idioms as possible next to each letter.
 
 Task 4 (krzyżówka w parach – całość)
+Polecenie: Work in pairs. Student A - go to page 96, Student B - go to page 108. (Complete the crossword by asking your partner for explanations.)
 Poziomo: 1. DEFERMENT  3. FIELD  4. SCIENCE CLUB  7. ASSESS  8. INTERN  9. TUT(orial)
 11. ORAL EXAM  13. DSC
 Pionowo: 2. ELIGIBILITY  3. FRESHER  4. SUBMIT  5. UNRAVEL  6. CORE  10. BSC  12. REVIEW
@@ -360,11 +421,14 @@ UNIT 2. NUMBERS
 ==========================================================================================
 
 Task 1 – [USTNE] rodzaje liczb (sprawdzane w Task 2).
+Polecenie: Work in pairs. What different types of numbers can you think of?
 
 Task 2
+Polecenie: Look at the definitions below and match the definitions to the terms. Check your ideas from Task 1.
 1. g   2. d   3. a   4. h   5. b   6. c   7. f   8. e
 
 Task 3 (wordle)
+Polecenie: What numbers can you find in the wordle? Now, try to write how to say the numbers below.
 a. 1,500 (fifteen hundred)   b. 47   c. 13,000   d. 3,005,426   e. 87
 f. 1,900 (nineteen hundred)   g. 61,351
 Jak czytać:
@@ -376,6 +440,7 @@ e. 437 – four hundred and thirty-seven
 f. 3.408 – three point four oh eight
 
 Task 4 (sposoby mówienia „0”)
+Polecenie: Look at different ways of saying "0" in English and complete the chart. Now, write the numbers next to the sentences.
 a. 9.02   b. 6041   c. 2–0   d. 40–0   e. 0.62   f. –5°C   g. 1906
 h. 503 776 209   i. 206 (6th stop)
 nought – e (ułamki dziesiętne, np. 0.62)
@@ -385,6 +450,7 @@ nil – c (wynik meczu piłkarskiego)
 love – d (tenis)
 
 Task 5 (ułamki)
+Polecenie: Find the names of vulgar (common) fractions in the word search and match them to the corresponding fractions in a-q.
 a. 1/2 – a half / one half
 b. 1/3 – a third / one third
 c. 1/4 – a quarter / one fourth
@@ -404,12 +470,15 @@ p. 1/12 – one twelfth
 q. 2/10 – two tenths
 
 Task 6 – [USTNE] dyktowanie liczb.
+Polecenie: Work in pairs, write eight different fractions and numbers, then dictate them to your partner. Compare your lists to see if you were right.
 
 Task 7
+Polecenie: Look at the notes and decide whether the statements are T true or F false.
 a. T   b. T   c. F (licznik czytamy liczebnikiem głównym – cardinal)
 d. F (mianownik czytamy liczebnikiem porządkowym – ordinal: „eighths”)   e. T
 
 Task 8 – [SŁUCHANIE/FILM]
+Polecenie: Listen to the recording or watch a short film about arithmetic. Put the words into the correct sign and answer the questions below. (https://www.youtube.com/watch?v=lwWOGJWKH98)
 addition: add, plus, sum
 subtraction: subtract, minus, take away, difference
 multiplication: multiplied (by), times, product, repeat(ed addition)
@@ -422,16 +491,19 @@ e. Kolejność działań: nawiasy → potęgi/pierwiastki → mnożenie i dziele
    dodawanie i odejmowanie (od lewej) (BODMAS/PEMDAS).
 
 Task 9
+Polecenie: Use the words from Task 8 and write the following.
 a) a + b = c – a plus b equals c; c is the sum
 b) a : b = c – a divided by b equals c; c is the quotient
 c) a × b = c – a times (multiplied by) b equals c; c is the product
 d) a – b = c – a minus b equals c; c is the difference
 
 Task 10
+Polecenie: Match the formula or symbols to how they should be read aloud.
 x ≥ 3 – d   x ≤ 3 – k   Σ – f   x → ∞ – e   ∫x – b   x² – g   x³ – c
 3! – i   √x – j   x ≈ 3 – a   (a + b) – h
 
 Task 11
+Polecenie: Complete the sentences with the words from the previous task. Then, use digits to write the operation.
 a. The square root of four is two. √4 = 2
 b. Three cubed is twenty-seven. 3³ = 27
 c. Four is greater than two. 4 > 2
@@ -440,6 +512,7 @@ e. Seven squared is forty-nine. 7² = 49
 f. Open parenthesis two plus two close parenthesis multiplied by two. (2 + 2) × 2
 
 Task 12
+Polecenie: Here are some more mathematical terms. Match the English words to their Polish equivalents.
 zapis matematyczny – mathematical notation
 twierdzenie – theorem
 wnioskowanie – inference
@@ -468,6 +541,7 @@ wykres – graph
 układ współrzędnych – coordinate system
 
 Task 13 (quiz)
+Polecenie: Do the quiz with a partner.
 1. 2, 3, 5
 2. np. 3/4
 3. 1, 3, 5
@@ -482,6 +556,7 @@ Task 13 (quiz)
 12. 3/8 (1 – 1/4 – 3/8 = 3/8)
 
 Task 14 (pary)
+Polecenie: Work in pairs. Student A - go to page 97, Student B - go to page 109. (For 1-5, define the terms to your partner; for 6-10, dictate the numbers, equations or formula.)
 A – definicje: ordinal numbers – numbers showing order/position (first, second...);
 decimal fraction – a fraction written with a decimal point (0.5); nil – zero (in sports scores);
 numerator – the top number in a fraction; difference – the result of subtraction.
@@ -495,6 +570,7 @@ B – dyktowanie: 6. one quarter  7. three point oh three six  8. x tends to inf
 10. five squared equals twenty-five
 
 Task 15 (tabela Fe / Au – połączone dane A i B)
+Polecenie: Work in pairs to complete the table. Student A - go to page 97, Student B - go to page 109. (Talk to your partner to complete the table with the properties of iron and gold.)
 Atomic number: Fe 26 | Au 79
 Density: Fe 7.8 g/cm³ | Au 19.3 g/cm³
 Melting point: Fe 1536°C | Au 1062°C
@@ -505,14 +581,17 @@ Thermal conductivity: Fe 76.2 W | Au 318 W
 Elongation of fracture: Fe 100% | Au 99.9% (wg układu tabel w książce)
 
 Task 16
+Polecenie: Study the definitions. Student A - go to page 98, Student B - go to page 110. (Study the definitions and decide what mathematical concepts they refer to (some hints have been provided for you). Check your answers with your partner. Then, present your definitions to your partner and ask them to guess the correct words/expressions.)
 Student A: 1) logarithm  2) theorem  3) derivative  4) formula  5) coordinate system  6) interval
 Student B: 1) inequality  2) variable (unknown)  3) sequence  4) infinity  5) equation  6) mean
 
 Task 17
+Polecenie: Read your sentences aloud. Student A - go to page 98, Student B - go to page 110. (Read your sentences aloud to your partner and ask them to complete the gaps with the words from the box. Then listen to your partner and complete their sentences.)
 Zdania A: 1. natural numbers  2. subtraction  3. product  4. set  5. coefficient
 Zdania B: 1. denominator  2. quotient  3. multiplying  4. Prime numbers  5. Mathematical notation
 
 Task 18 (krzyżówka – całość)
+Polecenie: Work in pairs to complete the communicative crossword. Student A - go to page 98, Student B - go to page 110. (You have every other word in the crossword. Define your words/phrases for your partner to guess (do not say the word itself). Guess the words described by your partner. What is the mystery phrase (down)?)
 1. TWELVE  2. ARITHMETIC  3. NOUGHT  4. DECIMAL  5. QUOTIENT  6. ORDINAL NUMBER
 7. PRODUCT  8. NUMERATOR  9. SUBTRACTION  10. EVEN NUMBER  11. FRACTION
 Hasło (pionowo): WHOLE NUMBER
@@ -522,6 +601,7 @@ UNIT 3. GEOMETRY
 ==========================================================================================
 
 Lead-in – [SŁUCHANIE/FILM] (prawdopodobnie):
+Polecenie: Listen to the recording or watch a film about geometry and complete the notes. (https://www.youtube.com/watch?v=k5etrWdlY6o)
 1. Geometry is the study of points, lines, planes, angles, shapes, sizes, positions (space).
 2. a. a point – helps to determine a specific location in space; labelled with capital letters (e.g. P)
    b. a line segment – has a beginning and an end (A•——•B)
@@ -532,11 +612,13 @@ Lead-in – [SŁUCHANIE/FILM] (prawdopodobnie):
    You need to have two points to draw a line and three (non-collinear) points to draw a plane.
 
 Task 1
+Polecenie: Look at the basic geometry words and match them to their Polish equivalents.
 bryła – solid; prosta – line; wierzchołek – vertex; kąt – angle; wymiar – dimension;
 przyległy – adjacent; równoległy – parallel; prostopadły – perpendicular;
 przekątna – diagonal; przecinać się – intersect; płaszczyzna – plane; bok – side
 
 Task 2
+Polecenie: Lines – find the matching pairs.
 a solid line – linia ciągła
 a dashed line – linia przerywana
 a broken line – linia kreskowana / łamana
@@ -552,20 +634,24 @@ intersecting lines – linie przecinające się
 wavy line – linia falowana
 
 Task 3
+Polecenie: Look at the definitions of two and three-dimensional figures. Match each definition with the term and draw the figures next to the definitions.
 1. cone   2. rectangle   3. quadrangle   4. polygon   5. prism   6. ellipse
 (rysunki – do wykonania samodzielnie)
 
 Trójkąty – [SŁUCHANIE/FILM]
+Polecenie: Now, listen to the recording or watch the film about different types of triangles. Name the triangles below and decide whether the statements below are true or false. (https://www.youtube.com/watch?v=mLeNaZcy-hE)
 Nazwy: wg boków – equilateral, isosceles, scalene; wg kątów – acute, right, obtuse.
 a. T   b. T   c. F (ma trzy równe boki)   d. T   e. F (zawsze ostrokątny – acute)
 f. T   g. F (kąt półpełny = 180°; 90° to kąt prosty)
 
 Task 4 (pary – nazwy figur)
+Polecenie: Describe the shapes you have in the table to your partner and learn their names. Student A - go to page 99, Student B - go to page 111.
 1A hexagon, 2A cylinder, 3A cuboid, 4A trapezium,
 1B pyramid, 2B pentagon, 3B prism, 4B rhombus,
 1C octagon, 2C heptagon, 3C rectangle, 4C sphere
 
 Task 5
+Polecenie: Decide whether the following statements are true T or false F. Correct the false ones.
 a. F – a right angle is exactly 90°
 b. F – an acute triangle has all interior angles less than 90°
 c. T
@@ -579,10 +665,12 @@ j. T
 k. T
 
 Task 6 – koło – [SŁUCHANIE/FILM] (rysunek: centre, radius, diameter, circumference, chord, tangent)
+Polecenie: Listen to the recording or watch the film about the circle. Draw and name the parts and features, decide whether the statements below are true or false. (https://youtu.be/cCOfZ_lkFpQ) Make sure that you have a chord and a tangent in your drawing.
 a. T   b. T   c. F (promień to połowa średnicy)   d. F (π = obwód / średnica)
 e. T (obwód ≈ 3.14 × średnica)   f. F (π jest stałe)   g. T
 
 Task 7 (quiz)
+Polecenie: Do the quiz in pairs.
 1. 212°F
 2. absolute zero (0 K = –273.15°C)
 3. about 6,378 km
@@ -595,18 +683,21 @@ Task 7 (quiz)
 10. pole rombu = 12.5 × 7.6 = 95 m² → 95 × $2.95 = $280.25
 
 Task 8 (krzyżówka – całość)
+Polecenie: Communicative crossword. Work in pairs. Student A - go to page 99, Student B - go to page 111. (You have every other word in the crossword. Define your words/phrases for your partner to guess (do not say the word itself). Guess the words described by your partner. What is the mystery phrase (down)?)
 1. TRAPEZIUM  2. EQUIDISTANT  3. CIRCUMFERENCE  4. HEPTAGON  5. VERTEX  6. PENTAGON
 7. DIAGONAL  8. PRISM  9. CIRCLE  10. EQUILATERAL  11. SOLID  12. DIAMETER  13. CHORD
 14. POLYGON  15. STRAIGHT  16. RECTANGLE  17. INTERSECT  18. RHOMBUS
 Hasło (pionowo): PERPENDICULAR LINES
 
 Task 9 – [USTNE] opisywanie robotów.
+Polecenie: Work in pairs. Describe your robots to your partner so that they can draw them. Student A - go to page 100, Student B - go to page 112.
 
 ==========================================================================================
 UNIT 4. DIMENSIONS AND MEASUREMENTS
 ==========================================================================================
 
-Tabela + Task 1 (przymiotnik – rzeczownik – czasownik)
+Task 1 (tabela: przymiotnik – rzeczownik – czasownik)
+Polecenie: Look at the word search below and find the missing words in the table above. The words are hidden horizontally, vertically and diagonally.
 long – length – lengthen
 short – shortness – shorten
 wide – width – widen
@@ -631,6 +722,7 @@ stiff – stiffness – stiffen
 rigid – rigidity / rigidness – rigidify
 
 Task 2 Part A
+Polecenie: Part A. Look at the list of English words and phrases below and the list of their Polish equivalents. In pairs, find the matching pairs.
 awareness – świadomość; bank – brzeg rzeki; bolt – śruba/sworzeń; digger – koparka;
 dredger – pogłębiarka; drill – wiertło/wiertarka; ingenious – pomysłowy/zmyślny;
 joist – belka stropowa; lintel – nadproże; mortar – zaprawa murarska; nut – nakrętka;
@@ -640,6 +732,7 @@ runway – pas startowy; screw – śruba/wkręt; spanner – klucz do nakrętek
 tensile strength – wytrzymałość na rozciąganie; torque wrench – klucz dynamometryczny
 
 Task 2 Part B (pary)
+Polecenie: Part B. Work in pairs. Student A - go to page 100, Student B - go to page 112. (Read your sentences to your partner. DO NOT read the words in brackets - these are the answers. Then, listen to your partner and fill in each gap with the best choice of word from the table in Task 1.)
 Student A: 1. flatten  2. deepen  3. tightness  4. length  5. thickness  6. narrows  7. weaken
 8. weigh  9. steepen  10. heighten  11. strengthen  12. tighten  13. shortness  14. softness
 15. breadth  16. width  17. soften
@@ -648,12 +741,15 @@ Student B: 1. strength  2. hardness  3. density  4. thickened  5. shorten  6. lo
 15. lengthen  16. widened  17. harden  18. weak
 
 Task 3
+Polecenie: Complete the sentences with the words from the box. You may have to change the grammatical form of some of these words.
 1. stiffen   2. hardness   3. shortness   4. heaviness   5. low   6. looseness
 7. flatness   8. rigidify   9. weighty   10. hardens   11. softness   12. stiffness
 
 Task 4 – [USTNE]
+Polecenie: Work in pairs, look around, ask questions about the approximate dimensions of objects in the room you are in. Example: What's the length of this/that window?
 
 Task 5 (pary – brakujące informacje)
+Polecenie: Pair work. Student A - go to page 101, Student B - go to page 113. (Provide your partner with the missing information / ask your partner for the missing information. Then swap your roles (information correct as of year 2020).)
 Student A dowiaduje się: 1. 48.3 km; 55 km  2. 828 m  3. 1,642 m  4. softness  5. steepest
 6. 2.02 m; 5 m  7. densest  8. low weight, high strength and heat resistance
 9. Liquid thickness  10. Air tightness
@@ -661,6 +757,7 @@ Student B dowiaduje się: 1. 979 m  2. 10  3. 19.32 g  4. 11 km  5. flattest  6.
 7. 2400 kg  8. weaknesses  9. steepest  10. 31 cm; 40 cm; 3.8 m
 
 Task 6
+Polecenie: Rewrite the following sentences using compound adjectives. Example: The river is 20,000 km long. It's a twenty-thousand-kilometre river.
 1. It's a fifty-kilometre tunnel.
 2. It's a fifteen-mile fence.
 3. It's a ten-pound note.
@@ -673,6 +770,7 @@ Task 6
 10. It's a five-million-pound office block.
 
 Task 7
+Polecenie: Use the verbs from the box to fill the gaps. You will have to change their grammatical form in most sentences.
 1. expand   2. spreading (growing)   3. growing   4. extended   5. increased (grown)
 6. contracts   7. shrunk   8. decreasing   9. stretches   10. retracts
 
@@ -681,6 +779,7 @@ UNIT 5. NUMBERS, GEOMETRY, DIMENSIONS AND MEASUREMENTS – REVISION
 ==========================================================================================
 
 Task 1 (alfabet – przykładowe słowa)
+Polecenie: Work in pairs. Complete the alphabet revision with words associated with numbers and geometry. Make sure you know their Polish equivalents. Compare the chart with your partner.
 A angle, acute, area, axis | B bracket, base | C cube, cone, chord, circle | D diameter, division,
 denominator | E equation, ellipse, even | F fraction, formula | G graph, greater | H height,
 hexagon | I integer, integral, infinity | J – (joule) | K – (kilogram) | L line, length |
@@ -690,10 +789,12 @@ U unknown | V vertex, volume, variable | W width, whole number | X x-axis | Y y-
 Z zero
 
 Task 2
+Polecenie: Complete the sentences with a word or a phrase.
 1. product   2. quotient   3. vulgar (common) fraction   4. decimal fraction   5. odd
 6. prime number   7. denominator   8. subtraction   9. point   10. ordinal   11. equation
 
 Task 3 (labirynt)
+Polecenie: Math maze. Follow the arrows and the translations to get from 'start' (numerator) to 'finish'. Find the last word. How is it related to the first one?
 NUMERATOR (licznik) → INTEGRAL (całka) → VULGAR FRACTION (ułamek zwykły) → VARIABLE (zmienna)
 → DECIMAL (ułamek dziesiętny) → THE SQUARE ROOT OF X (√x) → LINE SEGMENT (odcinek) →
 OBTUSE ANGLE (kąt rozwarty) → PARALLEL (równoległy) → RAY (półprosta) → SOLID (bryła) →
@@ -703,20 +804,24 @@ Ostatnie słowo: DENOMINATOR (mianownik) – razem z numerator (licznik) tworzą
 (licznik nad kreską, mianownik pod kreską).
 
 Task 4
+Polecenie: Complete the sentences.
 1. vertex   2. obtuse   3. intersect   4. plane   5. equilateral   6. cone   7. perimeter
 8. volume   9. length; width
 
 Task 5
+Polecenie: A lot of technical terms are used in everyday English. They have different meanings. Look at the words in the box, and make sure you know what they mean in mathematics or geometry. Then put them into the sentences below and explain their meaning in the new context (some words need to be used in the plural form).
 1. face   2. volume   3. plane   4. degree   5. right   6. cone   7. acute   8. chords (cords)
 9. positive   10. side   11. pyramids   12. negative   13. solid   14. even   15. odd
 
 Task 6 (pary)
+Polecenie: Pair work. Read your definitions and provide the right word for each of them. Then, read your definitions to your partner who has the matching words on their list. Check if you have chosen the same words for the definitions. Student A - go to page 102, Student B - go to page 114.
 Definicje A → słowa B: 1. quotient  2. numerator  3. commutative  4. integral  5. obtuse
 6. perpendicular  7. ray  8. tangent
 Definicje B → słowa A: 1. product  2. denominator  3. inverse  4. acute  5. parallel
 6. circumference  7. perimeter  8. chord
 
 Task 7 (krzyżówka w 3 osoby – całość)
+Polecenie: Communicative crossword. Work in groups of three. Student A - go to page 103, Student B - go to page 115, Student C - go to page 117. (Define your words in the crossword for the other students to guess. Guess the words defined by them. Decide together what the mystery phrase is (down).)
 1. RADIUS  2. TRIANGLE  3. DIFFERENCE  4. FORMULA  5. DEGREE  6. HORIZONTAL  7. VERTICAL
 8. ANGLE  9. MATHEMATICS  10. DIMENSION  11. BRACKETS  12. VOLUME  13. CONE
 14. MATHEMATICIAN  15. PARALLEL  16. CYLINDER  17. MULTIPLICATION  18. LENGTH
@@ -724,6 +829,7 @@ Task 7 (krzyżówka w 3 osoby – całość)
 Hasło (pionowo): DIFFERENTIAL CALCULUS
 
 Task 8 (jednostki)
+Polecenie: MEASUREMENTS. Complete the chart. Use abbreviations if possible. Look at some English system's words to help you. Now, browse the internet and complete the last column.
 LENGTH – English: inch (2.54 cm), foot (30.48 cm ≈ 0.3 m), yard (≈ 0.91 m), mile (≈ 1.6 km)
          Metric: mm, cm, m, km
 AREA   – English: acre (≈ 4,047 m² ≈ 0.4 ha), sq ft, sq mile
@@ -739,11 +845,14 @@ UNIT 6. ENGINEERING
 ==========================================================================================
 
 Task 1 – [USTNE/OTWARTE] (słowo „engineer” pochodzi od łac. „ingenium” – wrodzony talent, pomysłowość)
+Polecenie: Work in pairs and answer the questions below. What is engineering? Who is an engineer and what do they do? Where does the word "engineer" come from? What are pros and cons of this profession? What skills do you need to become an engineer? Can you name any engineering marvels?
 
 Task 2
+Polecenie: Match the words to their Polish equivalents.
 1. h   2. a   3. i   4. d   5. b   6. j   7. c   8. g   9. f   10. e
 
 Task 3 – [SŁUCHANIE/FILM] (prawdopodobnie – część odpowiedzi potwierdzają zdania z Task 8 w parach)
+Polecenie: Listen to the recording or watch the first part of the video and complete the notes below. (0' - 4.15') (https://www.youtube.com/watch?v=l1ly_FLIEp8&t=6s) - from Explore Engineering YouTube Channel, published on Jan 24, 2018.
 1. Engineering is a broad/creative field ... using it to invent, design and build things to solve
    problems and achieve practical goals.
 2. pulley, lever and wheel
@@ -761,10 +870,14 @@ Task 3 – [SŁUCHANIE/FILM] (prawdopodobnie – część odpowiedzi potwierdzaj
    f. analytical and creative thinking  g. familiarity with industrial standards
 
 Task 4a/4b/4c – [SŁUCHANIE] Helen i Adam
+Polecenie: Task 4a. Listen to the recordings and complete the chart. What are the pros and cons of an engineering profession?
+Polecenie: Task 4b. Listen to Helen and Adam talking about advantages and disadvantages of being an engineer. Who is more positive about their job?
+Polecenie: Task 4c. Now, listen again and choose the correct option.
 Z logiki tekstu: 7. c (is legally obliged and responsible)  8. b (heavy equipment and machinery)
 Pozostałe (1–6, 4b) – sprawdzić z nagraniem.
 
 Task 5
+Polecenie: Match the words to the definitions.
 cell – the smallest structural and functional unit of an organism
 pollutant – a substance or energy introduced into the environment that has undesired effects
 lever – a handle or a bar attached to a piece of machinery...
@@ -773,6 +886,7 @@ pulley – a piece of equipment used for lifting something very heavy...
 soil – the substance on the surface of the Earth in which plants grow
 
 Task 6 (kolokacje + tłumaczenie)
+Polecenie: Match the words from A to the words from B to make logical collocations. Translate the collocations.
 1. particle flow – przepływ cząstek
 2. spacecraft – statek kosmiczny
 3. oil spill – wyciek ropy
@@ -782,12 +896,15 @@ Task 6 (kolokacje + tłumaczenie)
 7. achieve goals – osiągać cele
 
 Task 7 – [INTERNET/OTWARTE]
+Polecenie: Internet Quest - watch the video under the following link https://view.genially.com/66563fbba403f80014171625/video-presentation-modern-marvels and then work in pairs.
 
 Task 8 (pary – „BLEEP”)
+Polecenie: Work in pairs. Student A - go to page 103, Student B - go to page 115. (Read the sentences with BLEEP to your partner and let them choose the best word from the box. Then, listen to them and try to choose the best option.)
 A: 1. familiarity  2. Environmental  3. wheel  4. spacecraft  5. skyscrapers
 B: 1. delivery  2. engine  3. civil  4. inventions  5. creative
 
 Task 9
+Polecenie: Match the names with their professional title. What are other branches of engineering nowadays?
 Anna – 4) geotechnical engineer
 Tom – 1) hydraulic engineer
 Eric – 5) construction engineer
@@ -796,6 +913,7 @@ Brad – 2) structural engineer
 Inne dziedziny: mechanical, electrical, chemical, aerospace, biomedical, computer, mechatronics...
 
 Task 10
+Polecenie: Work in pairs. Below, you can see some sub-disciplines of civil engineering. Can you explain what these sub-disciplines deal with? Use the internet if necessary. Now, look at the words below and try to match the sub-disciplines above to the words.
 1. materials science engineering
 2. municipal engineering
 3. surveying
@@ -806,6 +924,7 @@ Task 10
 8. forensic engineering
 
 Task 11 (labirynt kolokacji)
+Polecenie: Can you get out of the maze? Move in different directions selecting the words to form the most appropriate collocations with the words listed below (1 to 16). Mark your route. Make sure you know how to translate the collocations into Polish. Now read out the words that are left.
 1. forensic engineering  2. material science  3. water resources  4. flood control
 5. mass transit  6. seismic hazard  7. utility networks  8. waste management
 9. drug delivery system  10. state-owned company  11. oil spill  12. Bachelor's degree
@@ -817,8 +936,10 @@ UNIT 7. TYPES OF ENGINEERS
 ==========================================================================================
 
 Lead-in – [OTWARTE] (zdjęcie: prawdopodobnie c) an incineration plant – spalarnia odpadów w Krakowie)
+Polecenie: Look at the photo. Do you recognise the building? What is it called? Where is it? Is it: a) a museum of modern art? b) an airport? c) an incineration plant? d) a shopping centre? e) a fancy restaurant?
 
 Task 1
+Polecenie: Match the English terms with their Polish equivalents.
 aircraft – samolot; challenges – wyzwania; concerned – zainteresowany; disaster – katastrofa;
 field – dziedzina; fighter jet – myśliwiec odrzutowy; in demand – wzięty, poszukiwany;
 developing countries – kraje rozwijające się; issues – zagadnienia, problemy;
@@ -828,12 +949,14 @@ soil – gleba; spacecraft – statek kosmiczny; specialised – wyspecjalizowan
 vehicles – pojazdy; waste – odpady; working knowledge – praktyczna znajomość
 
 Task 2
+Polecenie: Use the terms from task 1 to complete the descriptions of two engineers. (https://online.scu.edu.au/blog/the-different-types-of-engineers)
 1. field   2. concerned   3. spacecraft   4. aircraft   5. fighter jet   6. rocket
 7. launch   8. in demand   9. specialised   10. infrastructure   11. power plant   12. soil
 13. refinement   14. waste   15. resources   16. issues   17. working knowledge
 18. developing countries   19. disaster   20. professionals
 
 Task 3 – [SŁUCHANIE/FILM „The Map of Engineering”] (prawdopodobnie)
+Polecenie: Listen to the recording or watch the video 'The Map of Engineering' (0 - 4:55) and complete the notes concerning civil engineering. (https://www.youtube.com/watch?v=pQgxiQAMTTo) Complete the sentence: "Engineering, by its very nature, is largely ..."
 Surveying – measuring and assessing the land on which buildings are built.
 Architectural engineering – planning for lighting, heating/ventilation (acoustics) when inhabited.
 Structural engineering – strong enough to withstand loads/forces (e.g. wind, earthquakes).
@@ -846,10 +969,12 @@ Petroleum engineering – exploration and exploitation of oil and gas fields; pr
 „Engineering, by its very nature, is largely interdisciplinary (cross-disciplinary).”
 
 Task 4
+Polecenie: Read the descriptions and guess the names of the eight engineering fields. Start with the given letter. (https://www.onlineengineeringprograms.com)
 1. Biomedical  2. Chemical  3. Civil  4. Computer  5. Electrical  6. (Engineering) Management
 7. Mechanical  8. Systems
 
 Task 5
+Polecenie: Go back to the table in task 4 and find English equivalents of the Polish terms.
 poprawa, ulepszenie – improvement; broń – weapons; protezy – prostheses; rozwój – development;
 złożony – complex; organizacja zadań – workflow; wytwarzanie – manufacturing;
 konserwacja – maintenance; ogniwo paliwowe – fuel cell; zdolności – capabilities;
@@ -860,6 +985,7 @@ przemiana – conversion; zastosowanie – application; sprzęt komputerowy – 
 poddziedzina – subfield; zintegrowane – integrated; część wspólna – intersection
 
 Task 6
+Polecenie: Study the chart describing chemical and bioengineering. Put the concepts they deal with in the correct column. Listen to the recording or watch the video (4:55 - 8:22) to check your choices. After you watch the video, work in pairs and decide which areas of chemical or bio-chemical engineering the following final products are examples of.
 Chemical engineering: + converting raw materials into useful products, petroleum engineering,
 textile engineering, food fermentation
 Bio-engineering / biomedical: + tissue engineered organs, disease diagnostic devices, prosthetics
@@ -878,17 +1004,21 @@ k) tissue engineered organs
 l) disease diagnostic devices
 
 Task 7 (pary)
+Polecenie: Communication. Student A - go to page 104; Student B - go to page 116. (Complete the description of an agricultural/industrial engineer with the given verbs. Read the description to your partner, starting with "This engineer...". Do not reveal what kind of engineer you are talking about - let your partner guess.)
 Agricultural engineer: a) conserves  b) develops  c) improves  d) designs  e) creates
 Industrial engineer: a) evaluates  b) improves  c) oversees  d) manages  e) coordinates
 
 Task 8 – [FILM/QUIZLET]
+Polecenie: Listen to the recording or continue with the video and watch the part on mechanical, aerospace and marine engineering (8:23 - 14:18). Do the online exercises: https://quizlet.com/748524342/match. For further practice, do the other exercises at home: https://quizlet.com/748524342
 
 Task 9
+Polecenie: Match the pieces of information (A - P) to the right engineers (Geotechnical / Mechatronics / Material engineers). (https://artofsmart.com.au/engineering/types-of-engineers)
 Geotechnical engineers: F, G, H, J, O, P
 Mechatronics engineers: A, E, I, K, L
 Material engineers: B, C, D, M, N
 
 Task 10
+Polecenie: Decipher the names of the areas that electrical engineering covers (the first letter is in the right place). Listen to the recording or watch the video (14:18 - 17:50) to check your answers.
 a) Micro-electromechanical systems (MEMS)
 b) Electronics
 c) Electric circuits
@@ -901,10 +1031,12 @@ i) Acoustical engineering
 j) Telecommunications
 
 Task 11 – [OTWARTE] np. civil/structural (budynek), mechanical & mechatronics (linia produkcyjna),
+Polecenie: Brainstorm. Imagine you want to build a meat processing factory with a fully automated production line. What engineers need to be involved in the process (from the design stage to full-scale operation)? Why? Share your opinion with other students.
 electrical (zasilanie), control/automation (sterowanie), software (systemy), environmental
 (odpady, ścieki), food/chemical/bioengineers (procesy, higiena), industrial (organizacja produkcji).
 
 Task 12 – [FILM] (prawdopodobnie)
+Polecenie: Listen to the recording or continue with the video to see what computer engineering and photonics deal with (17:50 - 20:40). Complete the diagrams and the sentences below with the missing information.
 Diagram: 1. computing/electronic devices  2. computer architecture  3. software  4. networks
 5. information and data
 a) electrical (electronic) engineering and computer science ... hardware and software
@@ -918,12 +1050,14 @@ Diagram fotoniki: 1. applied/quantum optics  2. optical communications (fibres)
 3. optoelectronic devices  4. detectors
 
 Task 13 – [OTWARTE]
+Polecenie: Competition. Work in groups of three. In 5 minutes, name as many engineers as you can. Compare your results. Who is the winner?
 
 ==========================================================================================
 UNIT 8. READING ASSIGNMENT
 ==========================================================================================
 
 Task 1
+Polecenie: Match English definitions and Polish equivalents below with words 1-5 in the chart.
 1. sturdy – physically strong and solid, and therefore unlikely to break – wytrzymały, solidny
 2. versatile – able to be used for many different purposes – wszechstronny, wielofunkcyjny
 3. proliferation – the fact of something increasing a lot and suddenly in number or amount –
@@ -932,6 +1066,7 @@ Task 1
 5. forsake – to give up completely – zrezygnować całkowicie
 
 Task 2
+Polecenie: Using the links to the dictionaries above, provide English definitions and Polish equivalents for words 6-10.
 6. abundant – existing in large quantities; more than enough – obfity, występujący w dużych ilościach
 7. outlandish – very strange and unusual – dziwaczny, ekstrawagancki
 8. residential tower – a tall building with flats/apartments – wieżowiec mieszkalny
@@ -939,13 +1074,16 @@ Task 2
 10. sequester – to capture and store (e.g. carbon dioxide) – wiązać, magazynować (CO2)
 
 Task 3 – [OTWARTE] słówka z własnego artykułu.
+Polecenie: Choose ten more words from the text you are unfamiliar with, provide English definitions and Polish equivalents, and fill in the chart in task 1 (11-20).
 
 Task 4 (wg artykułu „Skyscrapers of the Future Could Be Made of Wood” – sprawdź z tekstem)
+Polecenie: Read the article again and identify the main point of each section. Then, write it in your own words, using 1-2 sentences.
 Section 2: (1) Canada – Vancouver, University of British Columbia; (2) store (sequester)
 Section 3: 1. engineered wood (e.g. cross-laminated timber, CLT)  2. wood fibres in 3D printing
 Section 4: [OTWARTE] – streszczenie ciekawostki z artykułu w 1–2 zdaniach.
 
 Task 5 (tips)
+Polecenie: Watch a short video, 'Ways to Paraphrase', and get a general idea. Then watch it again and complete the tips below. (https://www.youtube.com/watch?v=ImlengfYp9Y)
 1. Find synonyms for the most important verbs and nouns.
 2. Use a different word form (part of speech).
 3. Change from the active to the passive.
@@ -953,6 +1091,7 @@ Task 5 (tips)
 5. Use several techniques (together).
 
 Task 6
+Polecenie: How to paraphrase? Compare these two texts and find examples of paraphrasing techniques mentioned in the video.
 Synonyms: skyscraper – high-rise structure; sturdy – strong, solid; versatile – multi-purpose;
 spectacular – amazing; structures – constructions; since then – subsequently
 Change of word form: all-steel-framed → whose frame was made entirely of steel; 1889 → 19th century
@@ -961,9 +1100,11 @@ Change of word order: Chicago's 10-story Rand McNally Building → A 10-story Ra
 built ... in Chicago
 
 Task 7
+Polecenie: Read the extract of the original text and complete the paraphrase with the words below.
 1. However   2. pollution   3. transport   4. carbon   5. Additionally   6. artificial   7. isolated
 
 Task 8 (przykłady)
+Polecenie: Combine the sentences using various transition words and phrases.
 1. Wood does not spew carbon dioxide; on the contrary, it captures and stores the harmful substance.
 2. Wood is a relatively light type of material; moreover, it can significantly reduce carbon emissions.
 3. Although using wood allows faster construction timelines, the building might be more flammable.
@@ -971,12 +1112,14 @@ Task 8 (przykłady)
 5. Owing to a special design, wooden panels can be fire-resistant.
 
 Task 9 (przykładowa parafraza)
+Polecenie: Now you know how to paraphrase a text. Read and paraphrase the extract using the techniques, reporting verbs, and transitional words. Good luck!
 The author claims that, for this reason, some unconventional architects are willing to give up
 concrete and steel and use a plentiful, multi-purpose and renewable resource instead. In contrast
 to traditional materials, it stores carbon rather than releasing it. In fact, this material –
 ordinary wood – is one of the most natural ones available.
 
 Task 10 (tłumaczenie)
+Polecenie: Now translate the following extract into Polish. Try to find Polish equivalents rather than translate word for word.
 Ponieważ wylesianie również stanowi poważny problem ekologiczny, Green chciałby wykorzystywać
 drewno pozyskiwane w sposób zrównoważony z młodych drzew, które mogą szybko odrosnąć. Dzięki temu
 produkcja tego surowca w rzeczywistości pomaga usuwać dwutlenek węgla z atmosfery, zamiast
@@ -987,6 +1130,8 @@ UNIT 9. PRACTICE TEST No. 1
 ==========================================================================================
 
 Part One: Listening – [SŁUCHANIE]
+Polecenie: Listening 1. You will now hear an interview from a radio programme. One of the engineers involved in the project will be talking about constructing the famous bridge in Millau. For questions 1-10, decide which statement is true (T), false (F). (10 points)
+Polecenie: Listening 2. Listen to Tim Golden, an expert in concrete innovation technologies. For questions 1-10, circle the right option (a, b, or c). (10 points)
 Listening 1 (Millau) – z wiedzy ogólnej (prawdopodobnie): 1. F (to most podwieszany –
 cable-stayed)  3. F (ma 7 filarów)  4. T  10. T (jedna środkowa płaszczyzna want).
 Pozostałe – z nagraniem.
@@ -994,19 +1139,27 @@ Listening 2 (concrete) – z wiedzy ogólnej (prawdopodobnie): 2. a  3. b  4. a 
 9. a  10. a. Pozostałe – z nagraniem.
 
 Part Two: Reading
+Polecenie: Reading 1. Read the text about container houses. For questions 1-7, circle the right option (a, b or c). (7 points)
 Reading 1: 1. b   2. b   3. a   4. a   5. b   6. a   7. c
+Polecenie: Reading 2. Look at the interview with Mr Chapman. Match the following answers with the questions provided below. You will not need to use one of the questions. For questions 8-13, find the words to match the definitions.
 Reading 2: 1. a   2. e   3. c   4. g   5. b   6. f   7. d   (niepotrzebne: h)
 8. versatile   9. non-combustible (ew. fire retardant)   10. prefabricated   11. lightweight
 12. low environmental impact   13. machinable
 
 Part Three: Grammar and Vocabulary
+Polecenie: Use 1. Read the following text and decide which word or phrase a, b, c, or d is missing in items 1-5.
 Use 1: 1. b (efficient)   2. a (Therefore)   3. b (so as to)   4. c (maintain)   5. c (increasingly)
+Polecenie: Use 2. Complete the text with the words given. There is one extra word that does not match any gap.
 Use 2: 1. i (superstructure)   2. c (transmit)   3. h (stability)   4. k (uniform)   5. a (frost)
        6. f (shallow)   7. d (footings)   8. e (deep)   9. b (bearing)   10. g (partition)
        (zbędne: j – strength)
+Polecenie: Use 3. Complete the sentences with the correct form of the word in bold.
 Use 3: 1. reinforcement   2. Strength   3. settlement   4. rectangular   5. Flexibility
 
 Part Four: Writing – przykład (temat 1, ok. 220 słów)
+Polecenie: Choose ONE of the following topics. Write between 200 and 250 words.
+Polecenie: 1. You want to apply for an internship in an international company specialising in designing commercial buildings. Write an application letter in which you will present yourself as the right candidate for the internship, write about your studies, experience, skills, knowledge of foreign languages and interests.
+Polecenie: 2. You are a contractor. Your work involves the complete replacement of insulation in an old residential building; however, the project lacks some information. Write an email to the architect referring to the project, describe the problem, ask about the essentials of the design, and suggest some solutions.
 Dear Sir or Madam,
 I am writing to apply for the internship in your company, which was advertised on your website.
 I am a third-year student of Civil Engineering at Cracow University of Technology, specialising
@@ -1033,25 +1186,36 @@ UNIT 9. PRACTICE TEST No. 2
 ==========================================================================================
 
 Part One: Listening – [SŁUCHANIE]
+Polecenie: Listening 1. You will now hear an interview on a radio programme about dam removal. Read questions 1-10 and then listen to the interview. Decide if the statements are TRUE (T) or FALSE (F). You will hear the recording twice. (10 points)
+Polecenie: Listening 2. You will hear five short texts. Read the questions, then listen and choose the correct option for each question. You will hear the recording twice. (10 points: 2 points for every correct answer)
 Listening 2 – z wiedzy ogólnej (prawdopodobnie): 2. a   3. b   4. b. Reszta – z nagraniem.
 
 Part Two: Reading
+Polecenie: Reading 1. Read each text carefully and then choose the correct answer for questions 1-7. (7 points)
 Reading 1: 1. a   2. c   3. c   4. b   5. b   6. b   7. a
+Polecenie: Reading 2. Read the text and choose the correct answer for questions 1-7 (13 points). (Uzupełnij luki 1-7 zdaniami A-G.) For questions 8-13, find the words to match the definitions.
 Reading 2: 1. F   2. G   3. E   4. D   5. B   6. C   7. A
 8. combustion   9. impede   10. retrieve   11. miscible   12. viscosity   13. pore(s)
 
 Part Three: Grammar and Vocabulary
+Polecenie: Use of English 1. Read the following text and decide which word or phrase a, b, c or d is missing in items 1-5. (5 points)
 Use of English 1: 1. a (to)   2. c (left)   3. d (least)   4. c (hinder)   5. d (various)
+Polecenie: Use of English 2. Complete the second sentence so that it has a similar meaning to the first one using the word provided. Do not change the word given. (5 points)
 Use of English 2:
 1. Ann insisted on not staying the night at Sophia's house.
 2. All students are required to leave a cash deposit.
 3. Jean's boss agreed to let her take a day off.
 4. I'm sure Brian won't object to taking care of the baby.
 5. They will give you a refund provided (that) you show the receipt.
+Polecenie: Use of English 3. Complete the text with the words given. (5 points)
 Use of English 3: 1. shaped   2. composed   3. sufficient   4. rinses   5. derived
+Polecenie: Use of English 4. Use the word in capitals to form a word that fits in the gap. (5 points)
 Use of English 4: 1. insight   2. intriguing   3. refusal   4. incomprehensible   5. widths
 
 Part Four: Writing – przykład (temat 1, ok. 220 słów)
+Polecenie: Choose ONE of the following topics. Write between 200 and 250 words.
+Polecenie: 1. From the company Blackpen Stationery you ordered two boxes of OHP film, ten packs of OHP permanent pens, seven packets of 80-gram photocopier paper (500 sheets) and 25 black A4-size files. The order came incomplete - one box of OHP is missing, the packets of photocopier paper are 300 sheets, and the files are in different colours. Write an email to the company. Include the following points: refer to the order, complain about order implementation, demand compensation.
+Polecenie: 2. You have a small farm in south-east Texas. Since the climate there is quite hot you would like to order an automatic irrigation system. Write an email to the company and inquire about the following points: explain what needs you may have concerning the irrigation system, ask about system details, request an instruction video complimentary to the offer, refer to delivery conditions.
 Subject: Order No. 2047 – incomplete and incorrect delivery
 Dear Sir or Madam,
 I am writing to complain about the order I placed with Blackpen Stationery on 2 October
@@ -1079,24 +1243,34 @@ UNIT 9. PRACTICE TEST No. 3
 ==========================================================================================
 
 Part One: Listening – [SŁUCHANIE]
+Polecenie: Listening 1. You will now hear five short texts. First read the questions, then listen to the recording and decide which answer is correct according to the texts. You will hear the recording twice. (10 points: 2 points for every correct answer)
+Polecenie: Listening 2. You will now hear an interview from a radio programme about 4-D Printing. First read the questions 1-10, then listen to the interview. Decide if the statements are TRUE (T) or FALSE (F). You will hear the recording twice. (10 points)
 Listening 1 – z wiedzy ogólnej (prawdopodobnie): 1. b   4. b   5. b. Reszta – z nagraniem.
 Listening 2 (4-D printing) – z wiedzy ogólnej (prawdopodobnie): 1. T   2. F   4. T   8. T.
 Reszta – z nagraniem.
 
 Part Two: Reading
+Polecenie: Reading 1. Read the text about engine placement and handling. Circle the right option (a, b or c). (7 points)
 Reading 1: 1. c   2. a   3. c   4. b   5. b   6. a   7. a
+Polecenie: Reading 2. Read the text about Volvo XC90. Decide if the statements below are TRUE or FALSE. (13 points) For questions 8-13 find the words in the text above to match the synonyms.
 Reading 2: 1. T   2. F   3. F (center tunnel)   4. F   5. T   6. F (updated over the air)   7. T
 8. unique   9. neat   10. reveals   11. swiping   12. mounted   13. regenerative
 
 Part Three: Grammar and Vocabulary
+Polecenie: Use of English 1. Read the following texts and decide which word or phrase a, b, c or d is missing in items 1-5. (5 points)
 Use of English 1: 1. c (intricate)   2. a (contains)   3. c (used to be)   4. d (withstand)
                   5. b (assembly)
+Polecenie: Use of English 2. Complete the text with the words given. (10 points)
 Use of English 2: 1. sustainable   2. action   3. launch   4. lengths   5. increases   6. lack
                   7. additionally   8. respond   9. likely   10. potential
+Polecenie: Use of English 3. Use the word in capitals to form a word that fits in the gap (5 points).
 Use of English 3: 1. disbelief   2. unprofessional   3. supervision   4. transparency
                   5. disapproval
 
 Part Four: Writing – przykład (temat 2, ok. 210 słów)
+Polecenie: Choose ONE of the following topics. Write between 200 and 250 words.
+Polecenie: 1. You have sent some prototypes to a metrology laboratory for conducting specific measurements. Unfortunately, you have not received the test results yet. You need them urgently. Write an email to the lab. Include the following points: when the prototypes were sent and the shipment number, reason for sending them, the deadline for receiving the results and consequences of not receiving them before the deadline.
+Polecenie: 2. You ordered twelve hundred 0.5 W headlights from a supplier. You have received fifty 2.4 W taillights and sixty 0.5 W headlights instead. Write an email to the supplier. Include the following points: point out the mistake, ask for a delivery date, say what you want the supplier to do.
 Subject: Order No. 5512 – wrong items delivered
 Dear Sir or Madam,
 I am writing with regard to our order No. 5512 placed on 1 October for twelve hundred 0.5 W
